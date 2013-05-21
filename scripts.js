@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
 
-$("ul:even > li").text("Get free upgrades");
+$("#vacations > li:odd ").text("Get free upgrades");
  });
 
