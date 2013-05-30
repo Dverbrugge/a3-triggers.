@@ -2,8 +2,8 @@
 $(document).ready(function(){
 
 
+  
  
+$("#vacations > li:odd").text("get sale price");
 
-+$("#vacations > li:odd ").text("Get free upgrades");
-  });
- 
+});	
